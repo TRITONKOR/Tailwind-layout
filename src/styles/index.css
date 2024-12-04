@@ -1,0 +1,8 @@
+@tailwind base;
+.title {
+  font-size: 45px;
+}
+
+.pr-3 {
+  padding-right: 100px;
+}/*# sourceMappingURL=index.css.map */

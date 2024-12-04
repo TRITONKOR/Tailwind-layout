@@ -1,0 +1,32 @@
+.main {
+  &__width {
+    width: 80%;
+  }
+  .card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .margin-top {
+    margin-top: 200px;
+  }
+
+  #mitchel {
+    img {
+      width: 800px;
+    }
+  }
+
+  #brands {
+    .brand-titles {
+      font-size: 160px;
+    }
+  }
+
+  #who {
+    .w30 {
+      width: 30%;
+    }
+  }
+}
